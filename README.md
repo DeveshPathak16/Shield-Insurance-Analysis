@@ -12,7 +12,7 @@ Shield Insurance Company, a well-known supplier of comprehensive insurance, is w
 
 ✅MS Power Point (ppt)
 
-The dataset provided by #codebasics is from Insurance companies, in which we have to track the 5 major key metrics
+The datasets provided by #codebasics is from Insurance companies, in which we have to track the 5 major key metrics-
 
 🎯 Key Focus Areas:
 

@@ -6,9 +6,9 @@ Shield Insurance Company, a well-known supplier of comprehensive insurance, is w
 
 ⚒️Tools Used :
 
-✅Ms-Excel
+✅Power BI 
 
-✅Power-BI
+✅Ms-Excel
 
 ✅MS Power Point (ppt)
 

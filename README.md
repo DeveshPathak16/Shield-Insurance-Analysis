@@ -40,12 +40,23 @@ Objective :
 
 The objective of this pilot project is to conduct a thorough examination of customer growth and revenue patterns at Shield Insurance Company. The project's primary emphasis lies in extracting significant observations regarding customer behavior, revenue generation, geographical distribution, and age group-based statistics. By analyzing these metrics, the project offers valuable insights to comprehend the company's performance and facilitate informed decision-making based on data.
 
-##Home page:
+## Home page:
 ![Screenshot (86)](https://github.com/DeveshPathak16/Shield-Insurance-Analysis/assets/144233773/357a433b-5dcd-4c98-b5fc-9ef9fa80cf01)
 
 
+## General view:
+![Screenshot (87)](https://github.com/DeveshPathak16/Shield-Insurance-Analysis/assets/144233773/da5afbb4-cba6-4cb3-8e09-3c6bf14445da)
 
-###Key Insights :
+
+## Sales mode analysis:
+![Screenshot (88)](https://github.com/DeveshPathak16/Shield-Insurance-Analysis/assets/144233773/da5f6df2-e1b2-4d22-bdfe-7309b2a7267f)
+
+
+## Age group analysis:
+![Screenshot (89)](https://github.com/DeveshPathak16/Shield-Insurance-Analysis/assets/144233773/6d600f72-d9e1-4e49-b4ea-2e25013ce7aa)
+
+
+### Key Insights :
 
 -Total Customers: The insurance company has a customer base of 26,841
 
